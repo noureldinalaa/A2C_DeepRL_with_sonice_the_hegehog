@@ -7,7 +7,6 @@
       <sourceFolder url="file://$MODULE_DIR$/../retro-contest/roms" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../retro-contest/setup" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../retro-contest/support" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../retro-contest/support/.eggs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../retro-contest/support/gym_remote" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../retro-contest/support/retro_contest" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../retro-contest/support/retro_contest_support.egg-info" isTestSource="false" />
