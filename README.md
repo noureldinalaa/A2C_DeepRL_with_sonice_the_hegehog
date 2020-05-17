@@ -6,5 +6,5 @@ Training sonic was introduced by **OpenAI Retro Contest** and i have used their 
 https://github.com/aborghi/retro_contest_agent  <br/>
 https://github.com/simoninithomas/Deep_einforcement_learning_Course
 
-**reminder**   <br/>  
+**reminder** <br/>  
 Due to depricated functions in tensorflow 2.0 from tensorflow 1.0 i have to edit some functions 
