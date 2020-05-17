@@ -7,4 +7,4 @@ https://github.com/aborghi/retro_contest_agent  <br/>
 https://github.com/simoninithomas/Deep_einforcement_learning_Course
 
 **reminder** <br/>
-Due to depricated functions in tensorflow 2.0 from tensorflow 1.0 i have to edit some functions 
+Due to depricated functions in tensorflow 2.0 from tensorflow 1.0, (later) i have to edit some functions 
